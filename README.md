@@ -28,6 +28,6 @@
  
 ![](https://i.imgur.com/XxN8z6g.png)
 
-## Telegram 機器人連結（開發中）
+## Telegram 機器人連結（開發中）Telegram bot link (In development)
 @ImNotTgBot
 https://t.me/ImNotTgBot
